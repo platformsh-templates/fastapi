@@ -50,7 +50,7 @@ async def test_mysql(instance):
     )
 
     async with connection.cursor(cursor=DictCursor) as cursor:
-        cursor.execute("SELECT 1")
+        await cursor.execute("SELECT 1")
 
 
 async def test_redis(instance):
