@@ -13,7 +13,7 @@ type: 'python:3.11'
 # Builds and variables
 
 dependencies:
-    python:
+    python3:
         pipenv: "2023.2.4"
 
 
