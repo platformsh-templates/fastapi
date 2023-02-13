@@ -12,11 +12,6 @@ type: 'python:3.11'
 ##########################
 # Builds and variables
 
-dependencies:
-    python3:
-        pipenv: "2023.2.4"
-
-
 hooks:
     build: |
         set -eu
@@ -25,7 +20,7 @@ hooks:
         python3.11 -m pip install --upgrade pip
 
         # Install dependencies
-        pipenv install --system --deploy
+        pip install -r requirements.txt
 
 ##########################
 # Web configuration
@@ -33,7 +28,7 @@ hooks:
 # The configuration of the application when it is exposed to the web.
 web:
     commands:
-        start: "pipenv run python server.py"
+        start: "python server.py"
 
 ##########################
 # Services
@@ -52,11 +47,6 @@ relationships:
 
 # The size of the persistent disk of the application (in MB).
 disk: 1024
-
-mounts:
-    '.cache':
-        source: local
-        source_path: cache
 
 ##########################
 # Internal maintenance
