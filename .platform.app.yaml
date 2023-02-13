@@ -53,6 +53,10 @@ relationships:
 # The size of the persistent disk of the application (in MB).
 disk: 1024
 
+mounts:
+    '.cache':
+        source: local
+        source_path: cache
 
 ##########################
 # Internal maintenance
