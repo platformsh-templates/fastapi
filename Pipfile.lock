@@ -42,11 +42,11 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:193c2f1b495d1d6561a3dc1ca02a150757322247d895ff6bf15b6eefee24feb9",
-                "sha256:c7e7453ac8c4b7414bbafcf90127d743559808eee286ae2c9f99a501f0b534a0"
+                "sha256:90a50056a958f75bdcd8c1638df342192705c293b03d74856755a17b3c40bed9",
+                "sha256:e75163706cee963459a0287d154e6b57f6d2ca8276b5c506c549fe13248d1770"
             ],
             "index": "pypi",
-            "version": "==0.106.0"
+            "version": "==0.107.0"
         },
         "h11": {
             "hashes": [
@@ -193,11 +193,11 @@
         },
         "starlette": {
             "hashes": [
-                "sha256:6a6b0d042acb8d469a01eba54e9cda6cbd24ac602c4cd016723117d6a7e73b75",
-                "sha256:918416370e846586541235ccd38a474c08b80443ed31c578a418e2209b3eef91"
+                "sha256:7bf3da5e997e796cc202cef2bd3f96a7d9b1e1943203c2fe2b42e020bc658482",
+                "sha256:e58b9fc402c579950260fbb6d57173395c4e62804c40d3ede7e9ef1074f0c579"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.27.0"
+            "version": "==0.28.0"
         },
         "typing-extensions": {
             "hashes": [
