@@ -46,6 +46,7 @@ hooks:
 
     # Download the latest version of pip
     python3.11 -m pip install --upgrade pip
+    pipenv --venv
 
     # Install dependencies
     pipenv install --deploy
