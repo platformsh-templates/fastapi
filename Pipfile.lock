@@ -177,11 +177,11 @@
         },
         "starlette": {
             "hashes": [
-                "sha256:134dd6deb655a9775991d352312d53f1879775e5cc8a481f966e83416a2c3f71",
-                "sha256:caaa3b87ef8518ef913dac4f073dea44e85f73343ad2bdc17941931835b2a26a"
+                "sha256:1a3139688fb298ce5e2d661d37046a66ad996ce94be4d4983be019a23a04ea35",
+                "sha256:c494a22fae73805376ea6bf88439783ecfba9aac88a43911b48c653437e784c4"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==0.39.2"
+            "version": "==0.40.0"
         },
         "typing-extensions": {
             "hashes": [
@@ -193,11 +193,11 @@
         },
         "uvicorn": {
             "hashes": [
-                "sha256:adc42d9cac80cf3e51af97c1851648066841e7cfb6993a4ca8de29ac1548ed41",
-                "sha256:f5167919867b161b7bcaf32646c6a94cdbd4c3aa2eb5c17d36bb9aa5cfd8c493"
+                "sha256:60b8f3a5ac027dcd31448f411ced12b5ef452c646f76f02f8cc3f25d8d26fd82",
+                "sha256:f78b36b143c16f54ccdb8190d0a26b5f1901fe5a3c777e1ab29f26391af8551e"
             ],
             "index": "pypi",
-            "version": "==0.31.1"
+            "version": "==0.32.0"
         }
     },
     "develop": {}
