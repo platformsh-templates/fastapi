@@ -18,11 +18,11 @@
     "default": {
         "annotated-doc": {
             "hashes": [
-                "sha256:2188cb99e353fcb5c20f23b8bc6f5fa7c924b213fac733d4b44883f9edffa090",
-                "sha256:f25664061aee278227abfaec5aeb398298be579b934758c16205d48e896e149c"
+                "sha256:348ec6664a76f1fd3be81f43dffbee4c7e8ce931ba71ec67cc7f4ade7fbbb580",
+                "sha256:e18370014c70187422c33e945053ff4c286f453a984eba84d0dbfa0c935adeda"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==0.0.2"
+            "version": "==0.0.3"
         },
         "annotated-types": {
             "hashes": [
