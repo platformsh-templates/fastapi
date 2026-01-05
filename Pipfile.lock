@@ -50,11 +50,11 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:c9330b9731e3bd2caae0a00e76353f86adbf592c5a25649a1682f3a92aeaff41",
-                "sha256:f099fceb2a6d56dd21c59c4543d00be123dedacff869e76ae31ba3c0f963e2cd"
+                "sha256:1cc179e1cef10a6be60ffe429f79b829dce99d8de32d7acb7e6c8dfdf7f2645a",
+                "sha256:aebd93f9716ee3b4f4fcfe13ffb7cf308d99c9f3ab5622d8877441072561582d"
             ],
             "index": "pypi",
-            "version": "==0.126.0"
+            "version": "==0.128.0"
         },
         "h11": {
             "hashes": [
@@ -233,11 +233,11 @@
         },
         "uvicorn": {
             "hashes": [
-                "sha256:48c0afd214ceb59340075b4a052ea1ee91c16fbc2a9b1469cca0e54566977b02",
-                "sha256:fd97093bdd120a2609fc0d3afe931d4d4ad688b6e75f0f929fde1bc36fe0e91d"
+                "sha256:839676675e87e73694518b5574fd0f24c9d97b46bea16df7b8c05ea1a51071ea",
+                "sha256:c6c8f55bc8bf13eb6fa9ff87ad62308bbbc33d0b67f84293151efe87e0d5f2ee"
             ],
             "index": "pypi",
-            "version": "==0.38.0"
+            "version": "==0.40.0"
         }
     },
     "develop": {}
