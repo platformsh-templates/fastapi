@@ -232,11 +232,11 @@
         },
         "uvicorn": {
             "hashes": [
-                "sha256:05f0eb19edf38208f79f43df8a63081b48df31b0cd1e5997be957a4dc97d1b19",
-                "sha256:0c92e1bc2259cb7faa4fcef774a5966588f2e88542744550b66799fba10b76f1"
+                "sha256:4ae72a385630bcc17a0adb8290f26c993865e0b43a2114c2aab96420172c056a",
+                "sha256:b92bf03509b82bcb9d49e7335b4fd364518ad021c2dc18b4e6a2fec8c955a0bb"
             ],
             "index": "pypi",
-            "version": "==0.50.0"
+            "version": "==0.50.2"
         }
     },
     "develop": {}
