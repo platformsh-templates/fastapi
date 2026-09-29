@@ -50,11 +50,11 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:bfb91aa2d334c61cb35ba9a116fc123b3d3df31640b801cf57a7a78ec3f603b3",
-                "sha256:e8822fc40db1e1858054d7a949a888695bc9bdce70139178e33bd2871a453ca1"
+                "sha256:761663e3e6939da45f997a6f68362abc0fa9d8606e76d504f15f806d2281581d",
+                "sha256:7eea2b5b1632ed43de2c090b3a43b7d92267189dfbbd55a967307ed763b6c57a"
             ],
             "index": "pypi",
-            "version": "==0.141.1"
+            "version": "==0.142.1"
         },
         "h11": {
             "hashes": [
@@ -71,6 +71,14 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==3.20"
+        },
+        "opentelemetry-api": {
+            "hashes": [
+                "sha256:711ede81773c8025c2c03dac0450bc89f3d30aea6eabcc815c570d4e35a963f7",
+                "sha256:80e068aba7cd56c8b58512d6a36f8d25cb1dfaa0c0a4cc1c938ccf9f362d9cb3"
+            ],
+            "markers": "python_version >= '3.10'",
+            "version": "==1.45.0"
         },
         "pydantic": {
             "hashes": [
