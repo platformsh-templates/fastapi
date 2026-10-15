@@ -50,11 +50,11 @@
         },
         "fastapi": {
             "hashes": [
-                "sha256:4cafaab64df8534758bf0fce61947f5e27e6cd512798ccbbaad5425086c3b664",
-                "sha256:687beb445804e4c4dbe2a76fd83c25e9b973ac48c267defb86f791e099baecc4"
+                "sha256:da2fe9893b7392ebce76d8c8511e3fa43e5a25f5852103aa2eee7cff3ab80b75",
+                "sha256:e9e6d97018dcfd748da7d9e7c61cedefbe9eb91b1a3288e45b13fbae76df2d54"
             ],
             "index": "pypi",
-            "version": "==0.143.1"
+            "version": "==0.143.2"
         },
         "h11": {
             "hashes": [
