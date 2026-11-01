@@ -34,11 +34,11 @@
         },
         "anyio": {
             "hashes": [
-                "sha256:6152fdbbf9a77fdec97731721bebf7c4c44f7c29b424b0065826173efc7ed101",
-                "sha256:9f28306018cbd6d329e64a36d58256edff76dd996fe423bc957326e578b82a94"
+                "sha256:59bb03251907983d1603d27c3087ddb1e93299ea2163adcdba37899a4fb12ffb",
+                "sha256:c66ae634e0b8228396b801741beb3294326d4b6102f7bba4041c0dfb58c29026"
             ],
             "markers": "python_version >= '3.10'",
-            "version": "==4.15.1"
+            "version": "==4.16.0"
         },
         "click": {
             "hashes": [
